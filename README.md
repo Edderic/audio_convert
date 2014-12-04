@@ -21,4 +21,4 @@ Dependencies
 ------------
 Must have:
   - ruby in `/usr/bin/ruby`. Tested with version 2.0.0p247.
-  - `afconvert` utility, which is installed in latest versions of Mac (OSX 10.7)
+  - `afconvert` utility
